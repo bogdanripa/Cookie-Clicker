@@ -85,7 +85,7 @@
                 </ui:OpenBrowser>
                 <FlowStep.Next>
                   <FlowStep x:Name="__ReferenceID0" sap2010:WorkflowViewState.IdRef="FlowStep_9">
-                    <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'DIV  bigCookie'" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                    <ui:Click ClickType="CLICK_SINGLE" DelayBefore="0" DelayMS="0" DisplayName="Click 'DIV  bigCookie'" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
                       <ui:Click.CursorPosition>
                         <ui:CursorPosition Position="Center">
                           <ui:CursorPosition.OffsetX>
@@ -118,7 +118,7 @@
     <x:Reference>__ReferenceID0</x:Reference>
     <x:Reference>__ReferenceID2</x:Reference>
     <x:Reference>__ReferenceID3</x:Reference>
-    <sads:DebugSymbol.Symbol>dzRcXE1hY1xIb21lXERvY3VtZW50c1xVaVBhdGhcQ29va2llIENsaWNrZXJcTWFpbi54YW1sDDsDeg8CAQFDCUciAgEISTtJUgIBB1gVZiACAQVMEVUiAgECQ3ZDggECAQxFhwFF+wECAQtFhgJFjAICAQpDMUM3AgEJZKgBZJwCAgEGTMcBTPEBAgEEUhdSYQIBAw==</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>dzRcXE1hY1xIb21lXERvY3VtZW50c1xVaVBhdGhcQ29va2llIENsaWNrZXJcTWFpbi54YW1sDjsDeg8CAQFDCUciAgEKSTtJUgIBCVgVZiACAQVMEVUiAgECQ3ZDggECAQ5FhwFF+wECAQ1FhgJFjAICAQxDMUM3AgELZKgBZJwCAgEIWFBYUwIBB1hEWEcCAQZMxwFM8QECAQRSF1JhAgED</sads:DebugSymbol.Symbol>
   </Flowchart>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
